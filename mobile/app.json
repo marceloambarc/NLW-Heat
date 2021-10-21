@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "HeatMobile",
-    "slug": "HeatMobile",
+    "name": "heatmobile",
+    "slug": "heatmobile",
     "version": "1.0.0",
+    "scheme": "heatmobile",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
